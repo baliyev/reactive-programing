@@ -1,0 +1,5 @@
+spring:
+  r2dbc:
+    user: root
+    password: password
+    url: r2dbc:h2:mem://./db_test
